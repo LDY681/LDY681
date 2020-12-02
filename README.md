@@ -4,14 +4,12 @@
 
 [![LDY681 github stats](https://github-readme-stats.vercel.app/api?username=LDY681)](https://github.com/LDY681)
 
-### 我的得意之作
-- [转世三国](https://github.com/LDY681/LDY681.github.io) - Inspired by E-SIM
-
 ### 我的个人笔记
 - [NoteBook](https://github.com/LDY681/notebook) - 工作和日常学习笔记
 - [Vue学习笔记](https://github.com/LDY681/vuejs-learning) - Vue学习笔记
 
 ### 我的大学个人项目
+- [转世三国](https://github.com/LDY681/LDY681.github.io) - Inspired by E-SIM
 - [转世三国Node](https://github.com/LDY681/zssanguo-cloud-node-js) - 转世三国Node.JS后端
 - [转世三国Wiki](https://github.com/LDY681/wiki) - 转世三国wiki百科
 - [代码杀](https://github.com/LDY681/sgs_scripts) - 三国杀自动逐鹿,上兵,红包,日常,发言+公会考勤
