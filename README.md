@@ -11,7 +11,7 @@
 - [NoteBook](https://github.com/LDY681/notebook)
 
 ### 我的大学个人项目
-- [转世三国cloud](https://github.com/LDY681/zssanguo-cloud-node-js) - 转世三国Node.JS后端
+- [转世三国Node](https://github.com/LDY681/zssanguo-cloud-node-js) - 转世三国Node.JS后端
 - [转世三国Wiki](https://github.com/LDY681/wiki) - 转世三国wiki百科
 - [代码杀](https://github.com/LDY681/sgs_scripts) - 三国杀自动逐鹿,上兵,红包,日常,发言+公会考勤
 - [钟妈计算器](https://github.com/LDY681/zhongma-calc) - 三国杀张昌蒲算牌器
