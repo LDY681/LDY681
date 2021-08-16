@@ -17,6 +17,11 @@
 - [钟妈计算器](https://github.com/LDY681/zhongma-calc) - 三国杀张昌蒲算牌器
 - [三国杀助手](https://github.com/LDY681/sgs_zhushou) - 三国杀防控台屏蔽+将灵出征聚宝完毕提醒
 - [E-SIM助手](https://github.com/LDY681/e-sim-zhushou-dev) - E-SIM双击激励打枪装备等
+- [Tomato Timer UserScript](https://github.com/LDY681/Tomato-Timer-UserScript) - UserScript版番茄钟
+- [三国geojson](https://github.com/LDY681/sanguo-geojson) - 三国时期行政区划geojson
+- [jsfolder-to-markdown](https://github.com/LDY681/jsfolder-to-markdown) - jsdoc-to-markdown拓展，JS文件批量转API文档
+
+
 
 ### 我的大学团队项目
 - [BoilerList二手交易平台](https://github.com/LDY681/BoilerList) - 类似facebook marketplace的二手交易平台
