@@ -4,24 +4,25 @@
 
 [![LDY681 github stats](https://github-readme-stats.vercel.app/api?username=LDY681)](https://github.com/LDY681)
 
-### 我的个人笔记
-- [NoteBook](https://github.com/LDY681/notebook) - 工作和日常学习笔记
-- [Vue学习笔记](https://github.com/LDY681/vuejs-learning) - Vue学习笔记
+### WIP
+- [转世三国2.0](https://github.com/LDY681/zssanguo_2.0) - Vue + Vue Router + Vuex + Vuetify + CloudBase
+- [SDT](https://github.com/LDY681/Sanguosha-Decker-Tracker) - A deck tracker and deck manager for Sanguosha on Windows.
+- [代码杀](https://github.com/LDY681/sgs_scripts) - 三国杀自动逐鹿,上兵,红包,日常,发言+公会考勤
+- [三国geojson](https://github.com/LDY681/sanguo-geojson) - GEOJSON data for cities in the Three Kingdoms period
 
 ### 我的个人项目
-- [转世三国2.0](https://github.com/LDY681/zssanguo_2.0) - Vue + Vue Router + Vuex + Vuetify + CloudBase
 - [转世三国](https://github.com/LDY681/LDY681.github.io) - Inspired by E-SIM
 - [转世三国Node](https://github.com/LDY681/zssanguo-cloud-node-js) - 转世三国Node.JS后端
 - [转世三国Wiki](https://github.com/LDY681/wiki) - 转世三国wiki百科
-- [代码杀](https://github.com/LDY681/sgs_scripts) - 三国杀自动逐鹿,上兵,红包,日常,发言+公会考勤
 - [钟妈计算器](https://github.com/LDY681/zhongma-calc) - 三国杀张昌蒲算牌器
 - [三国杀助手](https://github.com/LDY681/sgs_zhushou) - 三国杀防控台屏蔽+将灵出征聚宝完毕提醒
 - [E-SIM助手](https://github.com/LDY681/e-sim-zhushou-dev) - E-SIM双击激励打枪装备等
 - [Tomato Timer UserScript](https://github.com/LDY681/Tomato-Timer-UserScript) - UserScript版番茄钟
-- [三国geojson](https://github.com/LDY681/sanguo-geojson) - 三国时期行政区划geojson
 - [jsfolder-to-markdown](https://github.com/LDY681/jsfolder-to-markdown) - jsdoc-to-markdown拓展，JS文件批量转API文档
 
-
+### 我的个人笔记
+- [NoteBook](https://github.com/LDY681/notebook) - 工作和日常学习笔记
+- [Vue学习笔记](https://github.com/LDY681/vuejs-learning) - Vue学习笔记
 
 ### 我的大学团队项目
 - [BoilerList二手交易平台](https://github.com/LDY681/BoilerList) - 类似facebook marketplace的二手交易平台
