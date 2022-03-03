@@ -31,9 +31,8 @@
 - [DeliveryApp外卖平台](https://github.com/LDY681/Delivery-app) - 极简但包含所有功能的外卖平台
 
 ### 我的实习项目
-- [财通证券投教网站](https://github.com/LDY681/caitong-web) - 财通证券投教网站DEMO
 - [Phaser小游戏](https://github.com/LDY681/Phaser-Demo) - 手机小游戏
-- [msgls-as-bar-mc短信系统](https://github.com/LDY681/msgls-as-bar-mc-user-manual) - 短信系统
+
 
 ### 我的大学作业
 - [CS180](https://github.com/LDY681/CS-180-Programming-I) - Programming-I
