@@ -2,12 +2,12 @@
 
 <img align="left" src="http://ww1.sinaimg.cn/large/006vZSEGgy1gh80xum1u5j304405s3zs.jpg" alt="LDY681"/>
 
-[![LDY681 github stats](https://github-readme-stats.vercel.app/api?username=LDY681)](https://github.com/LDY681)
+[![LDY681 github stats](https://github-readme-stats.vercel.app/api?username=LDY681&count_private=true)](https://github.com/LDY681)
 <img style="height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDY681&langs_count=10&layout=compact&custom_title=%22Dayu%20Liu%27s%20Most%20Used%20Languages%22" alt="">
 
 ### WIP
+- [SCAM](https://github.com/suanguosha/SCAM) - 三国杀群内助手 Chrome Extension 根据群内禁将规则屏蔽禁将, 可自定义规则
 - [转世三国2.0](https://github.com/LDY681/zssanguo_2.0) - 三国类Erepublik游戏 Vue + Vue Router + Vuex + Vuetify + CloudBase(switching to MongoDB)
-- [SCAM](https://github.com/LDY681/Sinferno) - 三国杀群内助手 Chrome Extension 根据群内禁将规则屏蔽禁将, 可自定义规则
 
 ### 我的个人项目
 - [转世三国](https://github.com/LDY681/LDY681.github.io) - Inspired by E-SIM
