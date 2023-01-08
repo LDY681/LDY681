@@ -6,27 +6,26 @@
 <img style="height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDY681&langs_count=10&layout=compact&custom_title=%22Dayu%20Liu%27s%20Most%20Used%20Languages%22" alt="">
 
 ### WIP
-- [SCAM](https://github.com/suanguosha/SCAM) - 三国杀群内助手 Chrome Extension 根据群内禁将规则屏蔽禁将, 可自定义规则
-- [转世三国2.0](https://github.com/LDY681/zssanguo_2.0) - 三国类Erepublik游戏 Vue + Vue Router + Vuex + Vuetify + CloudBase(switching to MongoDB)
+- [eSerica](https://github.com/eSericaLab/eSerica) - eRepublik-like game. Vue + Vue Router + Vuex + Vuetify + Vite + Appwrite
+- [三国geojson](https://github.com/eSericaLab/eSerica-geojson) - GEOJSON data for 三国时期城市
 
 ### 我的个人项目
-- [转世三国](https://github.com/LDY681/LDY681.github.io) - Inspired by E-SIM
-- [转世三国Node](https://github.com/LDY681/zssanguo-cloud-node-js) - 转世三国Node.JS后端
-- [转世三国Wiki](https://github.com/LDY681/wiki) - 转世三国wiki百科
-- [E-SIM助手](https://github.com/LDY681/e-sim-zhushou-dev) - E-SIM双击激励打枪装备等
-- [代码杀](https://github.com/LDY681/sgs_scripts) - 三国杀自动逐鹿,上兵,红包,日常,发言+公会考勤
-- [三国杀助手](https://github.com/LDY681/sgs_zhushou) - 三国杀防控台屏蔽+将灵出征聚宝完毕提醒
+- [SCAM](https://github.com/suanguosha/SCAM) - 三国杀群内助手Chrome Extension 根据群内禁将规则屏蔽禁将, 可自定义规则
+- [代码杀](https://github.com/LDY681/sgs_scripts) - 三国杀脚本 自动逐鹿,上兵,红包,日常,发言+公会考勤
 - [钟妈计算器](https://github.com/LDY681/zhongma-calc) - 三国杀张昌蒲算牌器
+- [E-SIM助手](https://github.com/LDY681/e-sim-zhushou-dev) - E-SIM双击激励打枪装备等
 - [Tomato Timer UserScript](https://github.com/LDY681/Tomato-Timer-UserScript) - UserScript版番茄钟
 - [jsfolder-to-markdown](https://github.com/LDY681/jsfolder-to-markdown) - jsdoc-to-markdown拓展，JS文件批量转API文档
 - [SDT](https://github.com/LDY681/Sanguosha-Decker-Tracker) - OCR文字识别 支持录屏(非截屏)提取, 可以提取视频或者长文章等 (Python + Tesseract + Tkinter)
+- [三国杀助手](https://github.com/LDY681/sgs_zhushou) - 三国杀防控台屏蔽+将灵出征聚宝完毕提醒
 
 ### Archived
-- [三国geojson](https://github.com/LDY681/sanguo-geojson) - GEOJSON data for 三国时期城市
+- [转世三国](https://github.com/LDY681/LDY681.github.io) - Inspired by E-SIM
+- [转世三国Node](https://github.com/eSericaLab/zssanguo-cloud-node-js) - 转世三国Node.JS后端
+- [转世三国Wiki](https://github.com/LDY681/wiki) - 转世三国wiki百科
 
-### 我的个人笔记
+### 随笔
 - [NoteBook](https://github.com/LDY681/notebook) - 工作和日常学习笔记
-- [Vue学习笔记](https://github.com/LDY681/vuejs-learning) - Vue学习笔记
 
 ### 我的大学团队项目
 - [BoilerList二手交易平台](https://github.com/LDY681/BoilerList) - 类似facebook marketplace的二手交易平台
@@ -48,12 +47,3 @@
 - [CS448](https://github.com/LDY681/CS-448-Introduction-to-Relational-Database-Systems-Implementation) - Introduction-to-Relational-Database-Systems-Implementation
 - [CS354-1](https://github.com/LDY681/CS-354-Operating-Systems-w-prof.Park) - Operating-Systems-w-prof.Park
 - [CS354-2](https://github.com/LDY681/CS-354-Operating-Systems-w-prof.Comer) - Operating-Systems-w-prof.Comer
-
-
-
-
-
-
-
-
-
