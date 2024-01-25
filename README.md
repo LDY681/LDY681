@@ -8,8 +8,8 @@
 ### WIP
 - [eSerica](https://github.com/eSericaLab/eSerica) - eRepublik-like game. Vue + Vue Router + Vuex + Vuetify + Vite + Appwrite
 - [eSerica-geojson](https://github.com/eSericaLab/eSerica-geojson) - GEOJSON data for three kingdom era
-
-### 我的个人项目
+- 
+### My personal side-projects
 - [SCAM](https://github.com/suanguosha/SCAM) - Chrome Extension for Sanguosha. Hero bans with customizable rule sets.
 - [代码杀](https://github.com/LDY681/sgs_scripts) - Auto-bot and guild-management Scripts for Sanguosha.
 - [钟妈计算器](https://github.com/LDY681/zhongma-calc) - Zhangchangpu calculator for Sanguosha.
