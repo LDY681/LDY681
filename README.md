@@ -5,8 +5,8 @@
 - [eSerica(Private)](https://github.com/eSericaLab) - I am building an eRepublik-like game! Vue + Vue Router + Vuex + Vuetify + Vite + Appwrite
 
 ### Graduate works
-- [CITS4401](https://github.com/LDY681/CITS4401) - Natural Language Processing
-- [CITS3403](https://github.com/riceEx/CITS3403-project) - Agile Web Development Group Projec
+- [CITS4412](https://github.com/LDY681/CITS4012) - Natural Language Processing Labs
+- [CITS3403](https://github.com/riceEx/CITS3403-project) - Agile Web Development Group Project
 
 ### Personal side-projects
 - [jsfolder-to-markdown](https://github.com/LDY681/jsfolder-to-markdown) - jsdoc-to-markdown extension，bulk conversion from JS files to API docs.
@@ -33,7 +33,7 @@
 - [Jeecms&Freemarker项目](https://github.com/LDY681/jeecms-demo) - JEECMS CMS + Freemarker
 
 ### Undergraduate works
-- [CS180](https://github.com/LDY681/CS-180-Programming-I) - Programming-I
+- [CS180]([https://github.com/LDY681/CS-180-Programming-In-Java) - Programming-In-Java
 - [CS240](https://github.com/LDY681/CS-240-Programming-in-C) - Programming-in-C
 - [CS250](https://github.com/LDY681/CS-250-Computer-Architecture) - Computer-Architecture
 - [CS251](https://github.com/LDY681/CS-251-Data-Structures) - Data-Structures
