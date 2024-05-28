@@ -5,7 +5,8 @@
 - [eSerica(Private)](https://github.com/eSericaLab) - I am building an eRepublik-like game! Vue + Vue Router + Vuex + Vuetify + Vite + Appwrite
 
 ### Graduate works
-- [CITS4412](https://github.com/LDY681/CITS4012) - Natural Language Processing Labs
+- [CITS4012 Labs](https://github.com/LDY681/CITS4012) - Natural Language Processing Labs
+- [CITS4012 Project](https://github.com/LDY681/CITS4012-project) - Natural Language Processing Project
 - [CITS3403](https://github.com/riceEx/CITS3403-project) - Agile Web Development Group Project
 
 ### Personal side-projects
