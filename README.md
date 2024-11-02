@@ -7,7 +7,7 @@
 ### Graduate works
 - [CITS4012 Labs](https://github.com/LDY681/CITS4012) - Natural Language Processing Labs
 - [CITS4012 Project](https://github.com/LDY681/CITS4012-project) - Natural Language Processing Project
-- [CITS3403](https://github.com/riceEx/CITS3403-project) - Agile Web Development Group Project
+- [CITS3403 Project](https://github.com/LDY681/CITS3403-project) - Agile Web Development Group Project
 
 ### Personal side-projects
 - [jsfolder-to-markdown](https://github.com/LDY681/jsfolder-to-markdown) - jsdoc-to-markdown extension，bulk conversion from JS files to API docs.
