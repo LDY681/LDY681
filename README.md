@@ -5,6 +5,10 @@
 - [eSerica(Private)](https://github.com/eSericaLab) - I am building an eRepublik-like game! Vue + Vue Router + Vuex + Vuetify + Vite + Appwrite
 
 ### Graduate works
+- [CITS4009 Project]()
+- [CITS5507 Project]()
+- [CITS4403 Labs]()
+- [CITS5503 Labs]()
 - [CITS4012 Labs](https://github.com/LDY681/CITS4012) - Natural Language Processing Labs
 - [CITS4012 Project](https://github.com/LDY681/CITS4012-project) - Natural Language Processing Project
 - [CITS3403 Project](https://github.com/LDY681/CITS3403-project) - Agile Web Development Group Project
@@ -34,7 +38,7 @@
 - [Jeecms&Freemarker项目](https://github.com/LDY681/jeecms-demo) - JEECMS CMS + Freemarker
 
 ### Undergraduate works
-- [CS180]([https://github.com/LDY681/CS-180-Programming-In-Java) - Programming-In-Java
+- [CS180](https://github.com/LDY681/CS-180-Programming-In-Java) - Programming-In-Java
 - [CS240](https://github.com/LDY681/CS-240-Programming-in-C) - Programming-in-C
 - [CS250](https://github.com/LDY681/CS-250-Computer-Architecture) - Computer-Architecture
 - [CS251](https://github.com/LDY681/CS-251-Data-Structures) - Data-Structures
