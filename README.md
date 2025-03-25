@@ -13,6 +13,10 @@
 - [CITS4012 Project](https://github.com/LDY681/CITS4012-project) - Natural Language Processing Project
 - [CITS3403 Project](https://github.com/LDY681/CITS3403-project) - Agile Web Development Group Project
 
+### Side-projects for Eclesiar
+- [Eclesiar Discord BOT](https://github.com/LDY681/eclesiar-discord-bot)- Eclesiar's unofficial Discord BOT, happily used over 20 servers.
+- [Eclesiar Tranz](https://github.com/LDY681/eclesiar-tranz) - Eclesiar's crowdin localization (Pre-machine translation) script
+
 ### Personal side-projects
 - [jsfolder-to-markdown](https://github.com/LDY681/jsfolder-to-markdown) - jsdoc-to-markdown extension，bulk conversion from JS files to API docs.
 - [Tesseract-Live-OCR](https://github.com/LDY681/Tesseract-Live-OCR) - real-time OCR from video sources(yes videos!) (Python + Tesseract + Tkinter)
