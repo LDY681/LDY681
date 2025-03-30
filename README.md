@@ -2,13 +2,13 @@
 <img style="height: 195px;" src="https://github-readme-stats-eight-phi-88.vercel.app/api/top-langs/?username=LDY681&langs_count=10&layout=compact&custom_title=%22Dayu%20Liu%27s%20Most%20Used%20Languages%22" alt="">
 
 ### WIP & Postgraduate works/projects
-- [eSerica(Private)](https://github.com/eSericaLab) - I am building an eRepublik-like game! Vue + Vue Router + Vuex + Vuetify + Vite + Appwrite
+- eSerica(Private) - I am building an eRepublik-like game! Vue v3 + Vue Router + Vuex + Vuetify + Vite + Appwrite
 - AUTO4508 Labs (WIP) - Mobile Robots Labs
 - AUTO4508 Project (WIP) - Mobile Robots Project
 - [CITS4009 Project](https://github.com/LDY681/CITS4009-project) - Computational Data Analysis (Coding: R, ggplot2, tidyr, dplyr, rpart | App: R Shiny | Report: R Markdown)
 - [CITS5507 Labs & Projects](https://github.com/LDY681/CITS5507-labs) - High Performance Computing Labs & Projects (Coding: C/C++, OpenMP, MPI. Report: R Markdown/Miktex)
 - [CITS5503 Labs](https://github.com/LDY681/CITS5503-labs) - (AWS: Python, AWS boto3, Crypto | DevOps: Docker, fabric, Nginx | Web App: Django | AI: numpy, pandas)
-- [CITS4403 Project](https://github.com/LDY681/CITS4403-project) - Computational Modelling Project (Python, numpy, matplotlib) 
+- [CITS4403 Project](https://github.com/LDY681/CITS4403_project) - Computational Modelling Project (Python, numpy, matplotlib) 
 - [CITS4012 Labs](https://github.com/LDY681/CITS4012) - Natural Language Processing Labs (Python, Pytorch, numpy, nltk, pandas, sklearn, matplotlib)
 - [CITS4012 Project](https://github.com/LDY681/CITS4012-project) - Natural Language Processing Project (Python, Pytorch, numpy, nltk, pandas, sklearn, ktrain, matplotlib)
 - [CITS3403 Project](https://github.com/LDY681/CITS3403-project) - Agile Web Development Group Project (Python, Flask. SQLAlchemy)
