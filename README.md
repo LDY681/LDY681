@@ -1,5 +1,5 @@
 <img align="left" src="http://ww1.sinaimg.cn/large/006vZSEGgy1gh80xum1u5j304405s3zs.jpg" alt="LDY681"/>
-<img style="height: 195px;" src="https://github-readme-stats-eight-phi-88.vercel.app/api/top-langs/?username=LDY681&langs_count=10&layout=compact&custom_title=%22Dayu%20Liu%27s%20Most%20Used%20Languages%22" alt="">
+<img style="height: 195px;" src="https://github-readme-stats-eight-phi-88.vercel.app/api/top-langs/?username=LDY681&langs_count=10&layout=compact&custom_title=%22Dayu%27s%20Most%20Used%20Languages%22" alt="">
 
 ### WIP
 - eSerica(Private) - I am building an eRepublik-like game! Vue v3 + Vue Router + Vuex + Vuetify + Vite + Appwrite
