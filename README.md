@@ -33,7 +33,7 @@
 ### School projects
 #### Postgraduate projects
 - [OpenMP/MPI Matrix Muliplication](https://github.com/LDY681/CITS5507-labs) - High Performance Computing Labs & Projects (Coding: C/C++, OpenMP, MPI. Report: R Markdown/Miktex)
-- [WTO Death Cause Data Analysis](https://github.com/LDY681/CITS4009-project) - Computational Data Analysis (Coding: R, ggplot2, tidyr, dplyr, rpart | App: R Shiny | Report: R Markdown)
+- [WHO Death Cause Data Analysis](https://github.com/LDY681/CITS4009-project) - Computational Data Analysis (Coding: R, ggplot2, tidyr, dplyr, rpart | App: R Shiny | Report: R Markdown)
 - [UWA Parking Modelling](https://github.com/LDY681/CITS4403_project) - Computational Modelling Project (Python, numpy, matplotlib) 
 - [Sentimental Analysis with 3 custom BiLSTM Models](https://github.com/LDY681/CITS4012-project) - Natural Language Processing Project (Python, Pytorch, numpy, nltk, pandas, sklearn, ktrain, matplotlib)
 - [Riddle Game](https://github.com/LDY681/CITS3403-project) - Agile Web Development Group Project (Python, Flask. SQLAlchemy)
