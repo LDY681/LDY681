@@ -11,6 +11,18 @@
 - [Taro-VantUI-demo](https://github.com/LDY681/Taro-VantUI-demo) - A demo project based on Taro with VantUI (Vue V2, Taro, VantUI, Hybrid/Web/Mobile App)
 - [jsfolder-to-markdown](https://github.com/LDY681/jsfolder-to-markdown) - jsdoc-to-markdown extension，bulk conversion from JS files to API docs. (API Doc Auto-generation, Jsdoc-to-markdown, File handling)
 
+#### Side-projects for Eclesiar
+- [Eclesiar Discord BOT](https://github.com/LDY681/eclesiar-discord-bot)- Eclesiar's unofficial Discord BOT, happily used over 20 servers. (Discord.js, SQLite, Eclesiar APIS)
+- [Eclesiar Tranz](https://github.com/LDY681/eclesiar-tranz) - Eclesiar's crowdin localization (Pre-machine translation) script (Python, Google Trans, File handling)
+
+#### Side-projects for Sanguosha
+- [SCAM](https://github.com/suanguosha/SCAM) - Hero bans helper for Sanguosha (Chrome Extension: Manifest V2 | Frontend: Angular | DevOps: Hot Update/Version Control, Github Actions)
+- [钟妈计算器](https://github.com/suanguosha/zhongma-calc) - Zhangchangpu calculator (HTML/CSS/JS, over 10K views, pinned at top 1 on the official forum!)
+- [代码杀](https://github.com/suanguosha/sgs_scripts) - Auto-bot and guild-management Scripts for Sanguosha. (Frontend: Javascript, Sheet.js | Backend: Leancloud)
+- [三国杀助手](https://github.com/suanguosha/sgs_zhushou) - Console tools for Sanguosha. (Userscript, AJAX)
+- [三国杀比赛计分表](https://github.com/suanguosha/Sanguosha-League-Table) - Scoring calculator for league matches of Sanguosha (Vue V2, Vue-CLI, Vuetify)
+
+### Intern works
 ### LEI Intern works
 - [ORTO Website](https://github.com/DaMaSampson/orto) - Open Research Tools for Ophthalmology (Frontend: React, TypeScript, Next.js, Tailwind, Contentlayer, MDX | DevOps: Vercel, Husky, Google Analytics, Github discussion)
 
@@ -18,38 +30,29 @@
 - [Phaser小游戏](https://github.com/LDY681/Phaser-Demo) - A mobile-friendly platform game demo (Game engine & Physics: Phaser.js | Mobile touch gestures: Hammer.js)
 - [Jeecms&Freemarker项目](https://github.com/LDY681/jeecms-demo) - Content management service website demo (JEE CMS, Java Freemarker)
 
-### Side-projects for Eclesiar
-- [Eclesiar Discord BOT](https://github.com/LDY681/eclesiar-discord-bot)- Eclesiar's unofficial Discord BOT, happily used over 20 servers. (Discord.js, SQLite, Eclesiar APIS)
-- [Eclesiar Tranz](https://github.com/LDY681/eclesiar-tranz) - Eclesiar's crowdin localization (Pre-machine translation) script (Python, Google Trans, File handling)
-
-### Side-projects for Sanguosha
-- [SCAM](https://github.com/suanguosha/SCAM) - Hero bans helper for Sanguosha (Chrome Extension: Manifest V2 | Frontend: Angular | DevOps: Hot Update/Version Control, Github Actions)
-- [钟妈计算器](https://github.com/suanguosha/zhongma-calc) - Zhangchangpu calculator (HTML/CSS/JS, over 10K views, pinned at top 1 on the official forum!)
-- [代码杀](https://github.com/suanguosha/sgs_scripts) - Auto-bot and guild-management Scripts for Sanguosha. (Frontend: Javascript, Sheet.js | Backend: Leancloud)
-- [三国杀助手](https://github.com/suanguosha/sgs_zhushou) - Console tools for Sanguosha. (Userscript, AJAX)
-- [三国杀比赛计分表](https://github.com/suanguosha/Sanguosha-League-Table) - Scoring calculator for league matches of Sanguosha (Vue V2, Vue-CLI, Vuetify)
-
-### Postgraduate projects
+### School projects
+#### Postgraduate projects
 - [OpenMP/MPI Matrix Muliplication](https://github.com/LDY681/CITS5507-labs) - High Performance Computing Labs & Projects (Coding: C/C++, OpenMP, MPI. Report: R Markdown/Miktex)
 - [WTO Death Cause Data Analysis](https://github.com/LDY681/CITS4009-project) - Computational Data Analysis (Coding: R, ggplot2, tidyr, dplyr, rpart | App: R Shiny | Report: R Markdown)
 - [UWA Parking Modelling](https://github.com/LDY681/CITS4403_project) - Computational Modelling Project (Python, numpy, matplotlib) 
 - [Sentimental Analysis with 3 custom BiLSTM Models](https://github.com/LDY681/CITS4012-project) - Natural Language Processing Project (Python, Pytorch, numpy, nltk, pandas, sklearn, ktrain, matplotlib)
 - [Riddle Game](https://github.com/LDY681/CITS3403-project) - Agile Web Development Group Project (Python, Flask. SQLAlchemy)
 
-### Undergraduate projects
+#### Undergraduate projects
 - [BoilerList marketplace](https://github.com/LDY681/BoilerList) - Marketplace App for Buy&Sale (Frontend: Angular, Bootstrap | Backend: Node, Express, JWT, MongoDB/Mongoose, Nodemailer | Testing: Karma+Jasmine)
 - [PurdueClass IOS APP](https://github.com/LDY681/PurdueClass) - Course catalog and note-taking IOS App (IOS Swift, Purdue.io API)
 - [Mango track my package](https://github.com/LDY681/Mango) - Parcel tracking with interactive map data visualization (Frontend: Vue V2, Leaflet, Google Maps APIs | Backend: MongoDB | Testing: Chai+Mocha | DevOps: Heroku)
 - [DeliveryApp food delivery](https://github.com/LDY681/Delivery-app) - Simple and functional food delivery App (Frontend: HTML/CSS/JS | Backend/DevOps: Firebase)
 
-### Postgraduate works
+### School works
+#### Postgraduate works
 - AUTO4508 Labs (WIP) - Mobile Robots Labs (ROS2, Eyebot, Pioneer)
 - AUTO4508 Project (WIP) - Mobile Robots Project (ROS2, Eyebot, Pioneer)
 - [CITS5507 Labs](https://github.com/LDY681/CITS5507-labs) - High Performance Computing Labs & Projects (Coding: C/C++, OpenMP, MPI. Report: R Markdown/Miktex)
 - [CITS5503 Labs](https://github.com/LDY681/CITS5503-labs) - (AWS: Python, AWS boto3, Crypto | DevOps: Docker, fabric, Nginx | Web App: Django | AI: numpy, pandas)
 - [CITS4012 Labs](https://github.com/LDY681/CITS4012) - Natural Language Processing Labs (Python, Pytorch, numpy, nltk, pandas, sklearn, matplotlib)
 
-### Undergraduate works
+#### Undergraduate works
 - [CS180](https://github.com/LDY681/CS-180-Programming-In-Java) - Programming-In-Java
 - [CS240](https://github.com/LDY681/CS-240-Programming-in-C) - Programming-in-C
 - [CS250](https://github.com/LDY681/CS-250-Computer-Architecture) - Computer-Architecture
