@@ -31,7 +31,7 @@
 - [Jeecms&Freemarker项目](https://github.com/LDY681/jeecms-demo) - Content management service website demo (JEE CMS, Java Freemarker)
 
 ### School projects
-#### Postgraduate projects
+#### Graduate projects
 - [OpenMP/MPI Matrix Muliplication](https://github.com/LDY681/CITS5507-labs) - High Performance Computing Labs & Projects (Coding: C/C++, OpenMP, MPI. Report: R Markdown/Miktex)
 - [WHO Death Cause Data Analysis](https://github.com/LDY681/CITS4009-project) - Computational Data Analysis (Coding: R, ggplot2, tidyr, dplyr, rpart | App: R Shiny | Report: R Markdown)
 - [UWA Parking Modelling](https://github.com/LDY681/CITS4403_project) - Computational Modelling Project (Python, numpy, matplotlib) 
@@ -45,7 +45,7 @@
 - [DeliveryApp food delivery](https://github.com/LDY681/Delivery-app) - Simple and functional food delivery App (Frontend: HTML/CSS/JS | Backend/DevOps: Firebase)
 
 ### School works
-#### Postgraduate works
+#### Graduate works
 - AUTO4508 Labs (WIP) - Mobile Robots Labs (ROS2, Eyebot, Pioneer)
 - AUTO4508 Project (WIP) - Mobile Robots Project (ROS2, Eyebot, Pioneer)
 - [CITS5507 Labs](https://github.com/LDY681/CITS5507-labs) - High Performance Computing Labs & Projects (Coding: C/C++, OpenMP, MPI. Report: R Markdown/Miktex)
