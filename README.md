@@ -46,10 +46,10 @@
 
 ### School works
 #### Graduate works
-- AUTO4508 Labs (WIP) - Mobile Robots Labs (ROS2, Eyebot, Pioneer)
-- AUTO4508 Project (WIP) - Mobile Robots Project (ROS2, Eyebot, Pioneer)
-- [CITS5507 Labs](https://github.com/LDY681/CITS5507-labs) - High Performance Computing Labs & Projects (Coding: C/C++, OpenMP, MPI. Report: R Markdown/Miktex)
-- [CITS5503 Labs](https://github.com/LDY681/CITS5503-labs) - (AWS: Python, AWS boto3, Crypto | DevOps: Docker, fabric, Nginx | Web App: Django | AI: numpy, pandas)
+- [AUTO4508 Labs](https://github.com/LDY681/AUTO4508-labs) - Mobile Robots Labs (ROS2, Eyebot, Pioneer)
+- [AUTO4508 Project] (https://github.com/SamanthaPetri/MobRobProject) - Mobile Robots Project (ROS2, Eyebot, Pioneer)
+- [CITS5507 Labs & Project](https://github.com/LDY681/CITS5507-labs) - High Performance Computing Labs & Projects (Coding: C/C++, OpenMP, MPI. Report: R Markdown/Miktex)
+- [CITS5503 Labs](https://github.com/LDY681/CITS5503-labs) - Cloud Computing(AWS: Python, AWS boto3, Crypto | DevOps: Docker, fabric, Nginx | Web App: Django | AI: numpy, pandas)
 - [CITS4012 Labs](https://github.com/LDY681/CITS4012) - Natural Language Processing Labs (Python, Pytorch, numpy, nltk, pandas, sklearn, matplotlib)
 
 #### Undergraduate works
