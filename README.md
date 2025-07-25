@@ -32,11 +32,13 @@
 
 ### School projects
 #### Graduate projects
-- [OpenMP/MPI Matrix Muliplication](https://github.com/LDY681/CITS5507-labs) - High Performance Computing Labs & Projects (Coding: C/C++, OpenMP, MPI. Report: R Markdown/Miktex)
+- [Sentimental Analysis with 3 custom BiLSTM Models](https://github.com/LDY681/CITS4012-project) - Natural Language Processing (Python, Pytorch, numpy, nltk, pandas, sklearn, ktrain, matplotlib)
+- [OpenMP/MPI Matrix Muliplication](https://github.com/LDY681/CITS5507-labs) - High Performance Computing (Coding: C/C++, OpenMP, MPI. Report: R Markdown/Miktex)
 - [WHO Death Cause Data Analysis](https://github.com/LDY681/CITS4009-project) - Computational Data Analysis (Coding: R, ggplot2, tidyr, dplyr, rpart | App: R Shiny | Report: R Markdown)
-- [UWA Parking Modelling](https://github.com/LDY681/CITS4403_project) - Computational Modelling Project (Python, numpy, matplotlib) 
-- [Sentimental Analysis with 3 custom BiLSTM Models](https://github.com/LDY681/CITS4012-project) - Natural Language Processing Project (Python, Pytorch, numpy, nltk, pandas, sklearn, ktrain, matplotlib)
-- [Riddle Game](https://github.com/LDY681/CITS3403-project) - Agile Web Development Group Project (Python, Flask. SQLAlchemy)
+- [UWA Parking Modelling](https://github.com/LDY681/CITS4403_project) - Computational Modelling (Python, numpy, matplotlib) 
+- [Riddle Game](https://github.com/LDY681/CITS3403-project) - Agile Web Development (Python, Flask. SQLAlchemy)
+- [Pioneer Robot](https://github.com/SamanthaPetri/MobRobProject) - Mobile Robots Project (ROS2, Eyebot, Pioneer)
+- [Firefly Algorithm Trading Bot](https://github.com/LDY681/CITS4404_project) - Articificial Intelligence (Coding: Python, Pytorch, numpy, kagglehub, pyswarms, mealpy, matplotlib)
 
 #### Undergraduate projects
 - [BoilerList marketplace](https://github.com/LDY681/BoilerList) - Marketplace App for Buy&Sale (Frontend: Angular, Bootstrap | Backend: Node, Express, JWT, MongoDB/Mongoose, Nodemailer | Testing: Karma+Jasmine)
@@ -46,9 +48,9 @@
 
 ### School works
 #### Graduate works
+- [CITS4403 Labs](https://github.com/LDY681/CITS4403-labs) - Computational Modelling (Python, numpy, matplotlib) 
 - [AUTO4508 Labs](https://github.com/LDY681/AUTO4508-labs) - Mobile Robots Labs (ROS2, Eyebot, Pioneer)
-- [AUTO4508 Project] (https://github.com/SamanthaPetri/MobRobProject) - Mobile Robots Project (ROS2, Eyebot, Pioneer)
-- [CITS5507 Labs & Project](https://github.com/LDY681/CITS5507-labs) - High Performance Computing Labs & Projects (Coding: C/C++, OpenMP, MPI. Report: R Markdown/Miktex)
+- [CITS5507 Labs](https://github.com/LDY681/CITS5507-labs) - High Performance Computing Labs & Projects (Coding: C/C++, OpenMP, MPI. Report: R Markdown/Miktex)
 - [CITS5503 Labs](https://github.com/LDY681/CITS5503-labs) - Cloud Computing(AWS: Python, AWS boto3, Crypto | DevOps: Docker, fabric, Nginx | Web App: Django | AI: numpy, pandas)
 - [CITS4012 Labs](https://github.com/LDY681/CITS4012) - Natural Language Processing Labs (Python, Pytorch, numpy, nltk, pandas, sklearn, matplotlib)
 
