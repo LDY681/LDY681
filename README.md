@@ -5,6 +5,7 @@
 - eSerica(Private) - I am building an eRepublik-like game! Vue v3 + Vue Router + Vuex + Vuetify + Vite + Appwrite
 
 ### Personal side-projects
+- [WebToBG](https://github.com/LDY681/WebToBG) - Turn your favorite webpage into your windows live wallpaper (.NET, C#, Webview2)
 - [Tesseract-Live-OCR](https://github.com/LDY681/Tesseract-Live-OCR) - real-time OCR from video sources(yes videos!) (Python, Tesseract, Tkinter)
 - [Tomato Timer UserScript](https://github.com/LDY681/Tomato-Timer-UserScript) - UserScript Tomato Timer (UserScript)
 - [PDF Generate](https://github.com/LDY681/pdf-generate) - Generate PDF from text fields, images and videos. (Frontend: Vue V3, Tailwind CSS, Html2pdf.js | API:Imgur API, Pdfmonkey)
